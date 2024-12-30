@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.communityapp.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.communityapp.fragments.HomeFragment"
+        android:label="الرئيسية" />
+
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.example.communityapp.fragments.ChatFragment"
+        android:label="المحادثات" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.communityapp.fragments.SettingsFragment"
+        android:label="الإعدادات" />
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.communityapp.fragments.AboutFragment"
+        android:label="حول التطبيق" />
+
+</navigation>
