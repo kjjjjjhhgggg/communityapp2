@@ -56,12 +56,15 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2ef1fd7-f697-49c2-9588-9e24a873b207" name="Changes" comment="inittial commit" />
+    <list default="true" id="b2ef1fd7-f697-49c2-9588-9e24a873b207" name="Changes" comment=" commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
@@ -207,11 +210,20 @@
       <option name="project" value="LOCAL" />
       <updated>1735580221236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" commit">
+      <option name="closed" value="true" />
+      <created>1735580571016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735580571016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inittial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="inittial commit" />
+    <MESSAGE value=" commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" commit" />
   </component>
 </project>
